@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Red Rose", cursive;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Chilanka", cursive;
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Red Rose", cursive;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66bfbf;
+  padding-bottom: h2S;
+}
+
+h3 {
+  font-family: "Red Rose", cursive;
+  color: #0f4c75;
+}
+
+.top-container {
+  background-color: #bbe1fa;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #3282b8;
+  margin: 0;
+}
+
+.bottom-container {
+  background-color: #0f4c75;
+  padding: 50px 0 20px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+a {
+  color:#3282b8;
+  font-family: "Red Rose", cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+
+
+}
+
+a:hover {
+    color: #EEEEEE;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.solving-img {
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.bilingual-img {
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #fbd46d;
+    border-width: 6px;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.btn {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    height: 14px;
+    line-height: 14px;
+    color: #FFFFFF;
+    font-family: "Red Rose", cursive;
+    width: 185px;
+    font-size: 20px;
+    font-weight: 900;
+    padding: 12px;
+    background-color: #66BFBF;
+    box-shadow: 1px 1px 6px 0px #000000;
+    -webkit-box-shadow: 1px 1px 6px 0px #000000;
+    -moz-box-shadow: 1px 1px 6px 0px #000000;
+    text-shadow: 1px 1px 6px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+    
+.btn:hover {
+    background: #0F4C75;
+    border: solid #0F4C75 1px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+p {
+    line-height: 2;
+}
+
+.profile {
+    margin: auto;
+    width: 30%;
+}
+
+.contact-msg {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright {
+    color: #3282b8;
+    font-size: 0.75rem;
+}
